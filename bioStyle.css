@@ -1,0 +1,17 @@
+h1 {
+	font-style: italic;
+	font-size: 400%;
+	text-align: center;
+}
+
+body {
+	text-align: left;
+	background-color: #CCFFFF;
+}
+
+p {
+	font-size: 170%;
+	padding: 0px;
+	text-indent: 50px;
+	line-height: 50px;
+}
