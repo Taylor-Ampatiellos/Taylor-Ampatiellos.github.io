@@ -1,8 +1,6 @@
-Course: Comp 20 (Web Programming)
-Assignment 1: Portfolio
+Now that I am more comfortable with HTML, CSS, and Javascript, 
+I have begun working on a custom website for myself.
 
-I have correctly implemented all aspects of this assignment.
-
-I have not collaborated with anyone.
-
-I have spent approximately an hour on this assignment.
+My current website is hosted on Wix at https://taylorampatiellos.wixsite.com/profile.
+Although I am very happy with how the site looks in its present state, I would much rather have a website
+that not only adequately portrays by true web development skills, but also that I have more complete control over.
