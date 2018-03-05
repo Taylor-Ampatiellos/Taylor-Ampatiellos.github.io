@@ -1,0 +1,14 @@
+h1 {
+	font-style: italic;
+	font-size: 400%;
+}
+
+body {
+	text-align: center;
+	background-color: #CCFFFF;
+}
+
+a {
+	font-size: 170%;
+	padding: 25px;
+}
