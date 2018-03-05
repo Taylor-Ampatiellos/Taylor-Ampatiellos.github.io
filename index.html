@@ -4,20 +4,26 @@
 		<title>Home Page</title>
 		<meta charset="utf-8"/>
 		<link href="indexStyle.css" rel="stylesheet" />
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	</head>
 
 	<body>
-		<ul>
-			<li><a href="index.html">Home</a></li>
-  			<li><a href="bio.html">About Me</a></li>
-  			<li><a href="resume.html">Resume</a></li>
-		</ul>
 
+		<div id="nav-placeholder"></div>
+
+		<script>
+		$(function(){
+		  $("#nav-placeholder").load("menuBar.html");
+		});
+		</script>
+		
 		<h1>Taylor Ampatiellos</h1>
 		<p><img src="me.jpg" alt="Picture of Me" /></p>
 		<div class="links">
 			<a href="bio.html">My Bio</a>
 			<a href="resume.html">My Resume</a>
 		</div>
+
+		
 	</body>
 </html>
