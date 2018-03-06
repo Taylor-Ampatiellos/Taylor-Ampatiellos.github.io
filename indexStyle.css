@@ -18,8 +18,27 @@ a {
 	font-family: garamond;
 }
 
-img {
-	margin: 5px;
-	border: 1px solid #000000;
+.introAndImage {
+    width: 80%;
+    height: 200px;
+    background: aqua;
+    margin: auto;
+    padding: 25px;
 }
 
+.intro {
+    max-width: 49%;
+    height: auto;
+    float: left;
+}
+
+.intro p {
+	font-size: 25px;
+}
+
+.image {
+    float:right;
+    max-width: 49%;
+    height: auto;
+    background: black;
+}
